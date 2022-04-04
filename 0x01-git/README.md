@@ -1,2 +1,1 @@
-Sample Testing
-Updated!
+My first readme.
